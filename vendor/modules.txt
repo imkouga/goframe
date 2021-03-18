@@ -1,0 +1,25 @@
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/imkouga/gocore v1.0.1
+## explicit
+github.com/imkouga/gocore/cfg/conf
+github.com/imkouga/gocore/gc
+github.com/imkouga/gocore/http/httpserver
+github.com/imkouga/gocore/http/route
+github.com/imkouga/gocore/loger
+github.com/imkouga/gocore/store/filex
+github.com/imkouga/gocore/store/mysqlx
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.1
+github.com/jinzhu/now
+# gorm.io/driver/mysql v1.0.5
+gorm.io/driver/mysql
+# gorm.io/gorm v1.21.3
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
